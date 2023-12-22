@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 7170ad400fa97944c935e5fa3e6e61cd
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      74: -3601056607765901880
+    second: Pasillo_1piso|Camera.001Action
+  - first:
+      74: -8895311277592019997
+    second: Pasillo_1piso|Camera.003Action.004
+  - first:
+      74: -4221735275274555921
+    second: Pasillo_1piso|Camera.004Action.001
+  - first:
+      74: 3995372007966662162
+    second: Pasillo_1piso|Camera.005Action
+  - first:
+      74: 7492570435790348111
+    second: Pasillo_1piso|Camera.006Action
+  - first:
+      74: -4133862789023304396
+    second: Camera.004|Camera.001Action
+  - first:
+      74: 7343861791374442527
+    second: Camera.004|Camera.003Action.004
+  - first:
+      74: -834069976520285650
+    second: Camera.004|Camera.004Action.001
+  - first:
+      74: 9086779696856663765
+    second: Camera.004|Camera.005Action
+  - first:
+      74: 3128072630909725634
+    second: Camera.001|Camera.001Action
+  - first:
+      74: 6990367777710301058
+    second: Camera.001|Camera.003Action.004
+  - first:
+      74: 1643490635155033398
+    second: Camera.001|Camera.004Action.001
+  - first:
+      74: 7355669608017496273
+    second: Camera.001|Camera.005Action
+  - first:
+      74: -9050563723674776843
+    second: Camera.001|Camera.006Action
+  - first:
+      74: -6780749906772802864
+    second: Camera.005|Camera.001Action
+  - first:
+      74: -5619950807452567425
+    second: Camera.005|Camera.003Action.004
+  - first:
+      74: 4482404301462801959
+    second: Camera.005|Camera.004Action.001
+  - first:
+      74: -5415544825749731509
+    second: Camera.005|Camera.005Action
+  - first:
+      74: -5222777587152246419
+    second: Camera.005|Camera.006Action
+  - first:
+      74: -8467689435495810994
+    second: Camera.006|Camera.001Action
+  - first:
+      74: -4321916033309350903
+    second: Camera.006|Camera.003Action.004
+  - first:
+      74: 2403686697991398109
+    second: Camera.006|Camera.004Action.001
+  - first:
+      74: 9070823163960690988
+    second: Camera.006|Camera.005Action
+  - first:
+      74: -7238809760361165196
+    second: Camera.006|Camera.006Action
+  - first:
+      74: -3141962389094983170
+    second: Escalones_Eprincipal|Camera.001Action
+  - first:
+      74: -9139387146350107271
+    second: Escalones_Eprincipal|Camera.003Action.004
+  - first:
+      74: -6397162308354208818
+    second: Escalones_Eprincipal|Camera.004Action.001
+  - first:
+      74: 6765351949388789527
+    second: Escalones_Eprincipal|Camera.005Action
+  - first:
+      74: -2532697097336500688
+    second: Ladera_Eprincipal_backup|Camera.001Action
+  - first:
+      74: -5302827547931234355
+    second: Ladera_Eprincipal_backup|Camera.003Action.004
+  - first:
+      74: 3848979906678080715
+    second: Ladera_Eprincipal_backup|Camera.004Action.001
+  - first:
+      74: -7271706462771018085
+    second: Ladera_Eprincipal_backup|Camera.005Action
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_inside
+    second: {fileID: 2100000, guid: c0569c77fb4e09148bc6c7bf65b91ec5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_outside
+    second: {fileID: 2100000, guid: ae7c347bae0933247b2e56b999a23246, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 59cb01813e02c25488dea61ef851d295, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_material
+    second: {fileID: 2100000, guid: 2efce102ff138c843a7e473d23f13e2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handle_inside
+    second: {fileID: 2100000, guid: a5919de8faeaac2469dbcc6993bd39d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Handle_material
+    second: {fileID: 2100000, guid: c7863e0c68828dd49945583697089ca1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marble
+    second: {fileID: 2100000, guid: c535904f75540894aaac486c84bb8a1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 4add3b8e6321e4748b38c2e0abb9c478, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 8e600e0352dad584ea7597b0cec686e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 01bd7ddd65b865d4e95a6c4b98232123, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: c9ad6dea9958c0a40b5e1a2ca694c873, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 49bed08ba3b717d4281ca2a11796380e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: c21d14426b9915e4099ad6b73a23ce98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: bdeb2425f11cb484ba87c0522177c102, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 38a4ba7bb4711ac40a5c1fc6c75c3939, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: 81d64f23d1109de4392c4ecf6714ac49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: 73e49f1d725b1b34c9fa4db519ad6ae6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: b05993ff4a5016142ad917e526c66dd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: fd271d1ee1c50874abede55cc506c897, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.016
+    second: {fileID: 2100000, guid: a3a5b384b0a529d47bd37d9271c64ef3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.018
+    second: {fileID: 2100000, guid: 2ce6acdf958b85246aa05caf075462e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: a89abb312947033459fbf277f0f96357, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PVC
+    second: {fileID: 2100000, guid: a7ab28fb19478ef48b9ac586792713de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plaster17_3K
+    second: {fileID: 2100000, guid: 6da0dbe1fbf784b4484a3ad623db93c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic
+    second: {fileID: 2100000, guid: 7a92ca733dda2ec4c8a1687892dede8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Slab_bottom
+    second: {fileID: 2100000, guid: 1990a082bdfd5a641952acd56a59ee52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Slab_side
+    second: {fileID: 2100000, guid: 128a86a2a3432cd4c8ed540fe3005d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Slab_top
+    second: {fileID: 2100000, guid: 03d3a38bd81b2d54d93329f99d0679b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall2_cuts
+    second: {fileID: 2100000, guid: 3da3148bc5871b94a8de501f612b811f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall2_inside
+    second: {fileID: 2100000, guid: f2d2f7f790242684e966c5e2a372894b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall2_outside
+    second: {fileID: 2100000, guid: 6459309722f636d4f85464a4d84ae139, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_material
+    second: {fileID: 2100000, guid: 3b9fdf492eebd4a4280e92852f79541a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Window_material
+    second: {fileID: 2100000, guid: 9d43341a6e5cd4a4abcce4b10737d2b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: baldosas_colour
+    second: {fileID: 2100000, guid: a2d91f907c42409479678ae675865a3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hidden_material
+    second: {fileID: 2100000, guid: 4323bbdcf09553840949f297d6a9379f, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
