@@ -12,7 +12,9 @@ namespace QuantumTek.QuantumDialogue.Demo
         public TextMeshProUGUI messageText;
         public Transform choices;
         public TextMeshProUGUI choiceTemplate;
-
+        public Camera camera1;
+        public Camera camera2;
+        public Camera camera3;
         private List<TextMeshProUGUI> activeChoices = new List<TextMeshProUGUI>();
         private List<TextMeshProUGUI> inactiveChoices = new List<TextMeshProUGUI>();
 
@@ -29,10 +31,22 @@ namespace QuantumTek.QuantumDialogue.Demo
             // Don't do anything if the conversation is over
             if (ended)
                 return;
-
+         
             // Check if the space key is pressed and the current message is not a choice
             if (handler.currentMessageInfo.Type == QD_NodeType.Message && Input.GetKeyUp(KeyCode.Space))
-                Next();
+            Next();
+            if (handler.currentMessageInfo.ID == 6)
+            {
+
+                camera1.enabled = !camera1.enabled;
+                camera2.enabled = !camera2.enabled;
+            }
+            if (handler.currentMessageInfo.ID == 14)
+            {
+
+                camera2.enabled = !camera2.enabled;
+                camera3.enabled = !camera3.enabled;
+            }
         }
 
         private void ClearChoices()

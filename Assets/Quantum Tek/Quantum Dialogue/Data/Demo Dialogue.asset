@@ -46,6 +46,42 @@ MonoBehaviour:
     Speaker: 0
     SpeakerName: Arturo
     PreviousMessage: 6
+    NextMessage: 14
+    MessageText: Esta obra trata de la relacion del hombre con la naturaleza
+    Clip: {fileID: 0}
+  - ID: 14
+    Speaker: 0
+    SpeakerName: Arturo
+    PreviousMessage: 11
+    NextMessage: 15
+    MessageText: Este mural fue pintado para la Unaj y trata de la historia argentina
+    Clip: {fileID: 0}
+  - ID: 15
+    Speaker: 0
+    SpeakerName: Arturo
+    PreviousMessage: 14
+    NextMessage: 16
+    MessageText: 'Esta escultura fue hecha por . El mismo que hizo la escultura de '
+    Clip: {fileID: 0}
+  - ID: 16
+    Speaker: 0
+    SpeakerName: Arturo
+    PreviousMessage: 15
+    NextMessage: 17
+    MessageText: Los nombres de los edificios son importantes
+    Clip: {fileID: 0}
+  - ID: 17
+    Speaker: 0
+    SpeakerName: Arturo
+    PreviousMessage: 16
+    NextMessage: -1
+    MessageText: este es el edificio lanteri, lleva su nombre porEste es el edificio
+      moscon
+    Clip: {fileID: 0}
+  - ID: 18
+    Speaker: 0
+    SpeakerName: Arturo
+    PreviousMessage: -1
     NextMessage: -1
     MessageText: 
     Clip: {fileID: 0}
